@@ -1,16 +1,14 @@
-## Hi there 👋
+# CFM_ProRanker 更新仓库
 
-<!--
-**CFMProRanker/CFMProRanker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+这是 CFM_ProRanker 模块的官方更新仓库，仅用于提供模块的更新信息和下载链接。
 
-Here are some ideas to get you started:
+## 模块信息
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 名称：CFM_ProRanker
+- 作者：CFM职业榜哥
+- 功能：开启自瞄功能时自动切换SELinux模式；遇到指定必要应用时切换至调试模式；支持远程获取有效密钥。
+
+## 更新说明
+
+- 20260108：初始版本发布
+
