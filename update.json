@@ -1,6 +1,0 @@
-{
-  "version": "20260222",
-  "versionCode": 20260222,
-  "zipUrl": "https://raw.githubusercontent.com/CFMProRanker/CFMProRanker/main/CFM_ProRanker.zip",
-  "changelog": "初始版本发布：\n- 支持自瞄功能自动切换SELinux模式\n- 遇到指定应用自动切换至调试模式\n- 支持远程获取有效密钥"
-}
