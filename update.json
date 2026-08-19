@@ -1,6 +1,6 @@
 {
   "version": "2.0",
   "versionCode": 20260200,
-  "zipUrl": "http://wpan.cdndns.site/down/Maomao",
+  "zipUrl": "https://wpan.cdndns.site/down/Maomao",
   "changelog": "2.0版本发布:\n- 隐藏ROOT相关逻辑\n- 远程获取密钥功能"
 }
