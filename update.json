@@ -2,5 +2,5 @@
   "version": "2.0",
   "versionCode": 20260200,
   "zipUrl": "https://raw.githubusercontent.com/CFMProRanker/CFMProRanker/refs/heads/main/%E7%8C%AB%E7%8C%AB%E4%B8%80%E9%94%AE%E9%9A%90%E8%97%8F.zip",
-  "changelog": "2.0版本发布:\n- 隐藏ROOT相关逻辑\n- 远程获取密钥功能"
+ // "changelog": "2.0版本发布:\n- 隐藏ROOT相关逻辑\n- 远程获取密钥功能"
 }
